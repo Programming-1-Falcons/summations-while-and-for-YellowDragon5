@@ -1,4 +1,4 @@
-num = int(input("Choose a number: "))
+num = int(input(""))
 x=0
 z=0
 new=0
